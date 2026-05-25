@@ -3,13 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MyNamesLuiz&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLuiz&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeuNomeLuiz&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeuNomeLuiz&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ###
 
@@ -39,6 +35,9 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MeuNomeLuiz/MeuNomeLuiz/snake-output/snake.svg" alt="Snake animation" />
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MyNamesLuiz/MyNamesLuiz/snake-output/snake.svg" alt="Snake animation" />
