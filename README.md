@@ -6,14 +6,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MyNamesLuiz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLuiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MyNamesLuiz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" height="160" alt="gráfico de estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyNamesLuiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" height="160" alt="linguagens mais usadas" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MyNamesLuiz&theme=tokyonight&hide_border=true" height="160" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MyNamesLuiz&theme=tokyonight&hide_border=true&locale=pt_BR" height="160" alt="sequência de commits" />
 </div>
 
 ###
